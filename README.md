@@ -6,4 +6,4 @@ Como programo pelo celular, acabei optando o Pydroid o qual disponibiliza um amb
 
 ### Layout
 
-![layout](/storage/emulated/0/Download/1700392040676.jpg)
+![layout](./storage/emulated/0/Download/1700392040676.jpg)
